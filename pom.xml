@@ -45,6 +45,12 @@
                 </exclusion>
             </exclusions>
         </dependency>
+        <!--******************************************dubbo调用所需包************************************************-->
+        <dependency>
+            <groupId>dubbo-service</groupId>
+            <artifactId>com.jtl</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
         <!--******************************************spring所需包************************************************-->
         <dependency>
